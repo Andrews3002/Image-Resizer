@@ -5,12 +5,13 @@
   "description": "Tutorial App",
   "main": "main.js",
   "scripts": {
-    "start": "electron ."
+    "start": "electronmon ."
   },
   "author": "Alexangelo Andrews",
   "license": "MIT",
   "dependencies": {
     "electron": "^37.2.2",
+    "electronmon": "^2.0.3",
     "resize-img": "^2.0.0",
     "toastify-js": "^1.12.0"
   }
