@@ -5,7 +5,7 @@
   "description": "Tutorial App",
   "main": "main.js",
   "scripts": {
-    "start": "electronmon ."
+    "start": "electron ."
   },
   "author": "Alexangelo Andrews",
   "license": "MIT",
